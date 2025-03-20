@@ -1,0 +1,4 @@
+[WARNING] 20/Mar/2025 22:35:23 - Forbidden (Origin checking failed - http://localhost:8888 does not match any trusted origins.): /accounts/register/
+[WARNING] 20/Mar/2025 22:35:23 - Not Found: /favicon.ico
+[WARNING] 20/Mar/2025 22:40:50 - Forbidden (Origin checking failed - http://localhost:8888 does not match any trusted origins.): /accounts/login/
+[WARNING] 20/Mar/2025 22:41:39 - Forbidden (Origin checking failed - http://localhost:8888 does not match any trusted origins.): /accounts/login/
